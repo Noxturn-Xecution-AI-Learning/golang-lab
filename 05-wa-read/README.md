@@ -5,4 +5,4 @@
 Menerima dan memproses pesan masuk dari WhatsApp menggunakan `whatsmeow` event handler.
 
 ## Status
-⬜ Belum dikerjakan — jadwal: Sprint berikutnya
+[] Belum dikerjakan — jadwal: Sprint berikutnya
