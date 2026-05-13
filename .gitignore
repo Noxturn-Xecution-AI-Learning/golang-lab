@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.out
+/bin/
+
+# Go build cache
+/vendor/
+
+# Environment
+.env
+.env.local
+*.env
+
+# Screenshot output
+*.png
+screenshot_*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
